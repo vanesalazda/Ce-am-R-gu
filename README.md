@@ -1,2 +1,2 @@
-# Ce-am-R-gu
+# Ceļam Rīgu
 Kods spēlei "Ceļam Rīgu". 
